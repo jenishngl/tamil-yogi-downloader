@@ -1,0 +1,5 @@
+# Ignore TEMP_DIR
+/video1
+
+# Ignore all media files
+*.mp4
