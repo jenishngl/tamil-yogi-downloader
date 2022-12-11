@@ -1,5 +1,7 @@
 # TamilYogi movie downloader
 
+NOTE: This no longer works since Tamil Yogi has updated how they load movies!!! So archiving this project as of Dec 2022.
+
 This is a python executable to download movies via TamilYogi links
 
 Example:
